@@ -253,9 +253,7 @@ int main()
 	return EXIT_SUCCESS;
 }
 
-
-
-
+/*
 // A simple program that uses LoadLibrary and 
 // GetProcAddress to access myPuts from Myputs.dll. 
 
@@ -294,3 +292,4 @@ int dynamic_linking()
 
 	return 0;
 }
+*/
